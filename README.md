@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+To install required packages:
+### `npm install --save redux firebase react-dom react-icons react-redux react-router-dom redux redux-logger redux-thunk` 
+
 ### `npm start`
 
 Runs the app in the development mode.\
